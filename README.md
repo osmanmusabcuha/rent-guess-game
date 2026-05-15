@@ -4,7 +4,7 @@ Türkiye genelindeki gerçek emlak verilerini kullanarak kira fiyatlarını tahm
 
 ## 🚀 Özellikler
 
-*   **Gerçek Veriler:** 2500+ güncel emlak ilanı.
+*   **Gerçek Veriler:** 2500+ emlak ilanı.
 *   **Kullanıcı Sistemi:** JWT tabanlı giriş ve profil yönetimi.
 *   **Liderlik Tablosu:** Diğer oyuncularla rekabet.
 *   **Emlak IQ:** Tahmin doğruluğuna dayalı performans analizi.
