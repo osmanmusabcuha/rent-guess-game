@@ -1,0 +1,31 @@
+# Private database/env
+*.db
+*.db.bak
+*.sqlite
+*.sqlite3
+.env
+.env.local
+backend/.env
+
+# Private data/assets
+backend/data/
+backend/images/
+data/
+images/
+
+# Temp
+scratch/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
